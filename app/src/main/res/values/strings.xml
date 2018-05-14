@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="button_main">Send</string>
+    <string name="activity2_name">activity2_name</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="toast_message">Sekarang Activity Baru</string>
+    <string name="toast_message_second">Sekarang Habis Restart</string>
+
+</resources>
